@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+
+*{
+    margin: none;
+    padding: none;
+    list-style-type: none;
+    text-decoration: none;
+}
+/* 인덱스 페이지 스타일 */
+video{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: 1;
+}
+
+.top{
+    position: fixed;
+    right: 0%;
+    bottom: 0%;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: 2;
+
+    background: radial-gradient(
+        rgba(0, 0, 0, 0.05),
+        rgba(0, 0, 0, 0.9)
+    );
+}
+.wrap{
+    position: fixed;
+    right: 0%;
+    bottom: 0%;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: 3;
+}
+.box01{
+    width: 100%;
+    padding-top: 657px;
+    text-align: center;
+}
+.box02{
+    width: 100%;
+    padding-top: ;
+    text-align: center;
+    font-family: "Noto Sans KR", serif;
+    font-size: ;
+    font-weight:
+}
+.box03{
+    width: 100%;
+    padding-top: 202px;
+}
